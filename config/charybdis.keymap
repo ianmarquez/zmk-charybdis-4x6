@@ -94,8 +94,8 @@
 &kp TAB     &kp Q              &kp W              &kp E             &kp R                   &kp T                     &kp Y   &kp U                 &kp I               &kp O                &kp P                  &kp LEFT_BRACKET
 &kp LSHIFT  &hrm_left LALT A   &hrm_left LCTRL S  &hrm_left LCMD D  &hrm_left LEFT_SHIFT F  &kp G                     &kp H   &hrm_right RSHIFT J  &hrm_right RGUI K  &hrm_right RCTRL L  &hrm_right LALT SEMI  &kp APOS
 &kp LCTRL   &kp Z              &kp X              &kp C             &kp V                   &kp B                     &kp N   &lt 4 M              &kp COMMA           &kp PERIOD           &lt 5 SLASH            &kp RIGHT_BRACKET
-                                                                         &mt LSHIFT ESCAPE       &lt 1 SPACE  &lt 3 TAB  &lt 2 BACKSPACE  &mt RCTRL ENTER
-                                                                                         &mo 1         &mkp RCLK  &kp LGUI
+                                                                         &mt LSHIFT ESCAPE       &lt 1 SPACE  &lt 3 TAB  &lt 2 ENTER      &mt RCTRL BACKSPACE
+                                                                                         &mkp LCLK         &mkp RCLK  &kp LGUI
             >;
         };
 
