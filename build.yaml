@@ -1,8 +1,14 @@
 ---
 include:
   - board: nice_nano//zmk
+    shield: charybdis_dongle snake_adapter
+    artifact-name: charybdis_snake_dongle
+  - board: nice_nano//zmk
     shield: charybdis_left
     artifact-name: charybdis_left
   - board: nice_nano//zmk
     shield: charybdis_right
     artifact-name: charybdis_right
+  - board: nice_nano//zmk
+    shield: settings_reset
+    artifact-name: settings_reset
