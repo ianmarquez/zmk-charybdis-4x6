@@ -112,7 +112,7 @@
 
         Navigation_numbers {
             bindings = <
-&none        &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4      &none      &none                         &none                         &none                    &none          &none
+&none        &none  &none  &none  &none  &none      &none      &none                         &none                         &none                    &none          &none
 &none        &kp N1        &kp N2        &kp N3        &kp N4        &kp N5            &kp N6     &kp N7                       &kp N8                       &kp N9                  &kp N0         &none
 &none        &kp LALT      &kp LCTRL     &kp LGUI      &kp LSHFT     &kp TAB           &kp LEFT   &hrm_right RIGHT_SHIFT DOWN  &hrm_right RIGHT_COMMAND UP  &hrm_right RCTRL RIGHT  &kp RIGHT_ALT  &none
 &bootloader  &trans        &trans        &trans        &trans        &trans            &trans     &trans                       &trans                       &trans                  &trans         &bootloader
